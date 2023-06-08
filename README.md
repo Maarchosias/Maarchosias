@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 
-- :computer: By day I'm working as an Android Software Engineer mainly focused on the entertainment industry, but when the night falls... I still work, as a Freelancer currently working at a start-up in the car sharing industry. These 2 sides are shed in a different light and dynamic, as the environments are different, the organizations are different and there's much to learn from these 2 opposite experiences.
+- :computer: By day I'm working as an Android Software Engineer mainly focused on the entertainment industry, but when the night falls... I still work, as a Freelancer currently working at a start-up in the car sharing niche.
 - 👋 Hi, I’m @Maarchosias
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
