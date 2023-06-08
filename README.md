@@ -1,3 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="250"/>
+</div>
+
+<h1 align="center">
+  Hey there and welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### :man_technologist: About Me :
+
+- :computer: By day I'm working as an Android Software Engineer mainly focused on the entertainment industry, but when the night falls... I still work, as a Freelancer currently working at a start-up in the car sharing industry. These 2 sides are shed in a different light and dynamic, as the environments are different, the organizations are different and there's much to learn from these 2 opposite experiences.
 - 👋 Hi, I’m @Maarchosias
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
