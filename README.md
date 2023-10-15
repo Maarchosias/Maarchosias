@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="250"/>
 </div>
 
@@ -7,14 +7,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div id="header" align="center">
+  <p>"I don't go with the flow, unless it's a PI plan" - me 2023, philanthropist</p>
+</div>
+
 ### :man_technologist: About Me :
 
-- :computer: By day I'm working as an Android Software Engineer mainly focused on the entertainment industry, but when the night falls... I still work, as a Freelancer working at a start-up on a carpooling application.
-- :adult: I'm a young, passionate and stubborn developer with 2+ years of experience in Android and seeking for more
-- 👀 Besides my Android experience, I'm also interested in Cybersecurity, Machine Learning and Web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :computer: During daylight I'm working as an Android Software Engineer in the entertainment industry, more precisely on the Android TV platform, but when the night falls... I still work, as a Freelancer on a carpooling mobile application at a Romanian start-up accelerator. I'm no batman, but I'd like to think that I'm your casual, friendly Android Developer, at work cracking code and in breaks cracking jokes.
+- :adult: I'm a passionate and stubborn developer with knowledge in mobile and TV platforms and equipped with a never-ending pursuit of improvement, both professionally and personally. Besides Android, I'm also interested in Cybersecurity, Machine Learning, Web & Desktop development
+- 🌱 I’m always down to collaborate, create complex solutions and make this world a better place for humanity with the power of the mind and a few coffees. Of course, outside of work (because I'd like to think that I have a life), in my free-time you will most probably find me coding or doing N+1 things in tech, daydreaming design, reading, doing sports or gaming.
+- 📫 You should have learnt by now I'm social as well, if not, just imagine it, so if there's anything interesting coming your way and I look like the missing piece, feel free to drop a message at vassrichard09@yahoo.com or on my <a href="https://www.linkedin.com/in/richard-daniel-vass-8829621b1/">LinkedIn</a>
 
 <!---
 Maarchosias/Maarchosias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
