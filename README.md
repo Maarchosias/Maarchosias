@@ -11,12 +11,9 @@
   <p>"I don't go with the flow, unless it's a PI plan" - me 2023, philanthropist</p>
 </div>
 
-### :man_technologist: About Me :
+:computer: <b> Android Software Engineer @ 3 Screen Solutions </b> and <b> Android Developer @ Creative Motion </b>
 
-- :computer: During daylight I'm working as an Android Software Engineer in the entertainment industry, more precisely on the Android TV platform, but when the night falls... I still work, as a Freelancer on a carpooling mobile application at a Romanian start-up accelerator. I'm no batman, but I'd like to think that I'm your casual, friendly Android Developer, at work cracking code and in breaks cracking jokes.
-- :adult: I'm a passionate and stubborn developer with knowledge in mobile and TV platforms and equipped with a never-ending pursuit of improvement, both professionally and personally. Besides Android, I'm also interested in Cybersecurity, Machine Learning, Web & Desktop development
-- 🌱 I’m always down to collaborate, create complex solutions and make this world a better place for humanity with the power of the mind and a few coffees. Of course, outside of work (because I'd like to think that I have a life), in my free-time you will most probably find me coding or doing N+1 things in tech, daydreaming design, reading, doing sports or gaming.
-- 📫 You should have learnt by now I'm social as well, if not, just imagine it, so if there's anything interesting coming your way and I look like the missing piece, feel free to drop a message at vassrichard09@yahoo.com or on my <a href="https://www.linkedin.com/in/richard-daniel-vass-8829621b1/">LinkedIn</a>
+:man_technologist: <b> Studied at "1 Decembrie 1918 Alba Iulia" </b>
 
 <!---
 Maarchosias/Maarchosias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
